@@ -1,0 +1,21 @@
+# Add configuration values here, as shown below.
+#
+# pusher_app_id: "2954"
+# pusher_key: 7381a978f7dd7f9a1117
+# pusher_secret: abdc3b896a0ffb85d373
+# stripe_api_key: sk_test_2J0l093xOyW72XUYJHE4Dv2r
+# stripe_publishable_key: pk_test_ro9jV5SNwGb1yYlQfzG17LHK
+#
+# production:
+#   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
+#   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
+
+GOOGLE_API_KEY: AIzaSyCHvhDp5xbw_nokb5t1vtldaZSg-oGgOrw
+
+GOOGLE_CLIENT_ID: 523504866824-ptnbmcsbg5r46clsoh30lgr5mfrh3v51.apps.googleusercontent.com
+
+GOOGLE_CLIENT_SECRET: tpYYveb3_MlHJsRw4EEUXPed
+
+GOOGLE_APPLICATION_CREDENTIALS: ./client_secrets.json
+
+TRELORA_API_KEY: Nm1zdUVZRFNtbmVObXVOTmFyanA6Nm1zdUVZRFNtbmVObXVOTmFyanA=
