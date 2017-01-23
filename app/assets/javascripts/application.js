@@ -12,4 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require map_pin_messages.js
+//= require date.js
+//= require params.js
+//= require calendar.js
+//= require best_appointment.js
+//= require get_field_workers.js
 //= require_tree .
